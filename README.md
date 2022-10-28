@@ -1,5 +1,5 @@
 ### Hi there 👋
-铭牌 ：四足机器人
+铭牌 ：二足机器人
 
 <!--
 **Gustoo/gustoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
